@@ -1,8 +1,8 @@
 # Reinforcement
 ## Giải thích chi tiết trong phần comment code
 
-# Pacman-Project-5-Classification
-## Câu 1: - Value Iteration
+# Pacman-Project-3-Reinforcement
+## Câu 1: Value Iteration
 ```php
 python autograder.py -q q1
 ```
