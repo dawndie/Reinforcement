@@ -1,5 +1,5 @@
 # Reinforcement
-##Giải thích chi tiết trong phần comment code
+## Giải thích chi tiết trong phần comment code
 
 # Pacman-Project-5-Classification
 ## Câu 1: - Value Iteration
@@ -7,7 +7,7 @@
 python autograder.py -q q1
 ```
 ## Câu 2: Bridge Crossing Analysis
-Chúng ta sẽ ```php
+```php
 python autograder.py -q q2
 ```
 
